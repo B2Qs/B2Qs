@@ -41,11 +41,24 @@
    - [Demo](https://task-box-e9bb9.web.app/allTask) | [Code](https://github.com/B2Qs/proyecto-angular).  
 
 ---
-
 ## **📊 GitHub Statistics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B2Qs&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B2Qs&layout=compact&theme=dark)  
+<div align="center">
+ <table>
+   <tr>
+     <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=B2Qs&show_icons=true&theme=dark" alt="GitHub Stats" />
+     </td>
+     <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2Qs&layout=compact&theme=dark" alt="Top Languages" />
+     </td>
+     <td>
+       <img src="https://github-profile-trophy.vercel.app/?username=B2Qs&theme=onedark" alt="Trophy Stats" />
+     </td>
+   </tr>
+ </table>
+</div>
+---
 
 ![Snake animation](https://github.com/B2Qs/B2Qs/blob/output/github-contribution-grid-snake.svg)
 
