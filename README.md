@@ -47,6 +47,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B2Qs&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B2Qs&layout=compact&theme=dark)  
 
+![Snake animation](https://github.com/B2Qs/B2Qs/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## **📫 Contact Me**
