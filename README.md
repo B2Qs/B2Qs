@@ -28,17 +28,43 @@
 
 ---
 
-## **🚀 Featured Projects**
+### **🚀 Featured Projects**
 
-### 1. **[Task Automator](https://github.com/YourUsername/task-automator)**  
-   - Python script to automate repetitive tasks.  
-   - Technologies used: Python, Bash.  
-   - [Demo](https://example.com) | [Code](https://github.com/YourUsername/task-automator).  
+#### **1. [Task Automator](https://github.com/YourUsername/task-automator)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
 
-### 2. **[Task Manager with TypeScript](https://github.com/YourUsername/task-manager)**  
-   - Web application to manage daily tasks.  
-   - Technologies used: TypeScript, React, Node.js.  
-   - [Demo](https://task-box-e9bb9.web.app/allTask) | [Code](https://github.com/B2Qs/proyecto-angular).  
+- **Description**: Python script to automate repetitive tasks.  
+- **Links**:  
+  [Demo](https://example.com) |
+  [Code](https://github.com/YourUsername/task-automator)  
+
+---
+
+#### **2. [Task Manager with TypeScript](https://github.com/B2Qs/task-manager)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+- **Description**: Web application to manage daily tasks.  
+- **Links**:  
+  [Demo](https://task-box-e9bb9.web.app/allTask) | [Code](https://github.com/B2Qs/proyecto-angular)  
+
+---
+
+#### **3. [Linux Server Configurator](https://github.com/YourUsername/linux-config)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+</p>
+
+- **Description**: Scripts to automate Linux server configurations.  
+- **Links**:  
+  [Demo](https://example.com) | [Code](https://github.com/YourUsername/linux-config)  
 
 ---
 ## **📊 GitHub Statistics**
@@ -51,9 +77,6 @@
      </td>
      <td>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2Qs&layout=compact&theme=dark" alt="Top Languages" />
-     </td>
-     <td>
-       <img src="https://github-profile-trophy.vercel.app/?username=B2Qs&theme=onedark" alt="Trophy Stats" />
      </td>
    </tr>
  </table>
